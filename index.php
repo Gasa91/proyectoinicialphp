@@ -16,6 +16,7 @@ echo("hola mundo");
 print("<br>");
 echo ("mi nombre es ".$nombre . " y la edad es ".$edad);
 
+//con echo o print le doy imprimir
 
 
 
